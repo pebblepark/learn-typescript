@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "allowJs": true, // js 파일 사용 허용
+    "checkJs": true, // @ts-check 와 동일
+    "noImplicitAny": true // 최소 any 라는 타입이라도 넣어야한다
+  }
+}
